@@ -1,5 +1,6 @@
 gunicorn==19.9.0
 click==7.1.2
+opencv-contrib-python-headless
 cmake==3.21.3
 colorama==0.4.4
 dlib
